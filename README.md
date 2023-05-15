@@ -11,7 +11,7 @@ I have found that the [Voron Stealthburner](https://github.com/VoronDesign/Voron
 With high speeds and klipper, one or two 5015s is not enough. You need more cooling, with less weight on the toolhead!
 
 ### Drawbacks to using RSCS..?
-You will have to drill some holes in your acrylic panel, which is going to be a big turn off for alot of people, but I prommise, you will like it.
+You will have to drill some holes in your acrylic panel, which is going to be a big turn off for alot of people, but I promise, you will like it.
 
 
 
