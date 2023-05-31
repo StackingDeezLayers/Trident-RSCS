@@ -1,4 +1,4 @@
-#Files aren't uploaded yet. I'm to lazy to finish the README
+# Files aren't uploaded yet. I'm to lazy to finish the README
 
 ## Trident (R)emote (S)tatic (C)cooling (S)system
 This mod is based on the [VzBoT RSCS](https://github.com/VzBoT3D/VzBoT-Vz330/tree/master/Assemblies%20BOM%20and%20STL/RSCS) system and heavily inspired by [247printing](https://www.youtube.com/c/247printing)'s 247zero and the awesome [SCS mod](https://github.com/djsplice/SCS). Huge thanks to all these guys for sharing like a true hero so that I could bring this idea to the [Voron Trident](https://github.com/VoronDesign/Voron-Trident).
